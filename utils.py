@@ -1,15 +1,4 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
 
-"""
-# Author      : Sathish Raman(539188)
-# Copyright   : Copyright (c) 2020 Seagate Technology | Charecterisation Analytics Group (CAG)
-# Version     : Version 1.0 | Jan 2022
-# Email       : sathish.raman@seagate.com
-# Status      : Dev
-# License     : Seagate Internal Use Only
-# Description : A module containing some useful utility packages and methods common for IDA processess.
-"""
 
 
 import os
